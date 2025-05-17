@@ -1,4 +1,4 @@
-# Netflix-Clone
+# Netflix-UI-Clone
 Netflix Clone Project
 I created a Netflix clone using HTML and CSS, replicating the sleek and modern design of the popular streaming platform. This project includes:
 
